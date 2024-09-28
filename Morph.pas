@@ -1,4 +1,4 @@
 ﻿program butterfly;
 begin
-Writeln('Коронный морфлинг');
+Writeln('Яторо лучший морфлинг в мире');
 end.
